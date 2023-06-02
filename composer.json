@@ -1,0 +1,15 @@
+{
+    "name": "andrehs/simulador",
+    "description": "Projeto Hackathon",
+    "type": "project",
+    "license": "GNU GPL",
+    "authors": [
+        {
+            "name": "André Henrique",
+            "email": "andrehs@outlook.com.br"
+        }
+    ],
+    "require": {
+        "symfony/http-client": "^6.3"
+    }
+}
